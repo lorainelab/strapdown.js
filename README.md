@@ -1,3 +1,14 @@
+# About this repository
+
+The Loraine Lab uses branch "main" as our main line of development.
+This repository was imported from github, where the main line of
+development is "master."
+As needed, we will cherry-pick new commits to the master branch being
+made on github onto our "main" branch.
+
+* * *
+
+
 # StrapDown.js (on GitHub)
 [StrapDown.js](https://naereen.github.io/StrapDown.js/) is an awesome web script to write nice-looking webpages in pure Markdown, with no server side compilation.
 
